@@ -1,2 +1,1 @@
-# Grid-challenge-frontendmentor
- 
+# learn-grid-the-easy-way
